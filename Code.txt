@@ -9,7 +9,7 @@ import java.io.IOException;
 public class As {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
-        File file = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br = new BufferedReader(new FileReader(file));
         String x;
 
@@ -24,7 +24,7 @@ public class As {
             }
         }
 
-        File file1 = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file1 = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br1 = new BufferedReader(new FileReader(file1));
         String x1;
 
@@ -52,7 +52,7 @@ public class As {
         
         
         
-        File file2 = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file2 = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br2 = new BufferedReader(new FileReader(file2));
         String x2;
 
@@ -68,7 +68,7 @@ public class As {
             }
         }
         
-        File file3 = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file3 = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br3 = new BufferedReader(new FileReader(file3));
         String x3;
 
@@ -88,7 +88,7 @@ public class As {
         
         
         
-        File file4 = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file4 = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br4 = new BufferedReader(new FileReader(file4));
         String x4;
 
@@ -109,7 +109,7 @@ public class As {
         
         
         
-        File file5 = new File("C:\\Users\\TAKI\\Desktop\\input.txt");
+        File file5 = new File("C:\\Users\\Anonto\\Desktop\\input.txt");
         BufferedReader br5 = new BufferedReader(new FileReader(file5));
         String x5;
 
